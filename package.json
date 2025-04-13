@@ -8,5 +8,13 @@
   },
   "keywords": ["dropdown", "menu", "UI", "component"],
   "author": "nikgav1",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikgav1/dropdown-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikgav1/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/nikgav1/dropdown-menu#readme"
 }

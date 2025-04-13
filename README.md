@@ -1,0 +1,1 @@
+A simple dropdown menu component for web applications.
