@@ -7,7 +7,7 @@ A simple dropdown menu component for web applications.
 Install the package via npm:
 
 ```bash
-npm install dropdown-menu
+npm i @nikgav1/dropdown-menu
 ```
 
 ## Usage
