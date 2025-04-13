@@ -1,0 +1,12 @@
+{
+  "name": "@nikgav1/dropdown-menu",
+  "version": "1.0.0",
+  "description": "A simple dropdown menu component for web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dropdown", "menu", "UI", "component"],
+  "author": "nikgav1",
+  "license": "ISC"
+}
