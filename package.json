@@ -1,6 +1,6 @@
 {
   "name": "@nikgav1/dropdown-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple dropdown menu component for web applications.",
   "main": "index.js",
   "scripts": {
