@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["dropdown", "menu", "UI", "component"],
+  "keywords": [
+    "dropdown",
+    "menu",
+    "UI",
+    "component"
+  ],
   "author": "nikgav1",
   "license": "ISC",
   "repository": {
