@@ -15,7 +15,7 @@ npm i @nikgav1/dropdown-menu
 Import the module and create a dropdown menu:
 
 ```javascript
-import creatingDropDownMenu from 'dropdown-menu';
+import creatingDropDownMenu from '@nikgav1/dropdown-menu';
 
 creatingDropDownMenu('box', 'btn', 10, ['Home', 'Contact', 'Work']);
 
