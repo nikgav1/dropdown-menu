@@ -1,4 +1,4 @@
-function creatingDropDownMenu(
+export default function creatingDropDownMenu(
   idOfBox,
   idOfButton,
   gapBetweenTextsPx = 10,
